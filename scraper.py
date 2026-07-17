@@ -18,9 +18,9 @@ def get_soup(session: requests.Session, url: str) -> BeautifulSoup | None:
 def start(soup: BeautifulSoup) -> tuple[list[str], list[str]]:
     cards = soup.find_all('a', class_='vw_crlnk')
     card_names = soup.find_all('a', class_='uni_lnk')
+    ranking_numbers = soup.find_all('span', class_='uninum')
 
     uni_links = []
-    #uni_links = [card.get('href') for card in cards]
     for card in cards:
         href = card.get('href')
         if href:
@@ -28,7 +28,8 @@ def start(soup: BeautifulSoup) -> tuple[list[str], list[str]]:
             uni_links.append(full_url)
     
     uni_names = [name.get_text(strip=True) for name in card_names]
-    return (uni_links, uni_names)
+    ranking_numbers = [num.get_text(strip=True) for num in ranking_numbers]
+    return (uni_links, uni_names, ranking_numbers)
 
 def get_course_links(session: requests.Session, soup: BeautifulSoup, url: str) -> list[str]:
     course_links = []
@@ -51,7 +52,6 @@ def get_course_links(session: requests.Session, soup: BeautifulSoup, url: str) -
         if not isinstance(next_href, str):
             break
         
-        
         if next_href.strip().lower().startswith("javascript:"):
             break
 
@@ -65,7 +65,6 @@ def get_course_links(session: requests.Session, soup: BeautifulSoup, url: str) -
         url = next_page_url
         soup = next_soup
 
-    
     
     return course_links
 
@@ -92,8 +91,10 @@ def main():
             initial_url,
         )
 
-        uni_links, uni_names = start(ranking_soup)
+        # get initial table of unis info
+        uni_links, uni_names, ranking_numbers = start(ranking_soup)
 
+        
         for uni_link in uni_links:
             uni_soup = get_soup(session, uni_link)
             course_links = get_course_links(uni_soup, uni_link)
