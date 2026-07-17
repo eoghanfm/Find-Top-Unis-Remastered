@@ -15,18 +15,38 @@ def get_soup(session: requests.Session, url: str) -> BeautifulSoup | None:
     return BeautifulSoup(response.text, 'html.parser')
 
 
-def start(soup: BeautifulSoup) -> list[str]:
+def start(soup: BeautifulSoup) -> tuple[list[str], list[str]]:
     cards = soup.find_all('a', class_='vw_crlnk')
     card_names = soup.find_all('a', class_='uni_lnk')
 
-    uni_links = [card.get('href') for card in cards]
+    uni_links = []
+    #uni_links = [card.get('href') for card in cards]
+    for card in cards:
+        href = card.get('href')
+        if href:
+            full_url = urljoin(initial_url, href)
+            uni_links.append(full_url)
+    
     uni_names = [name.get_text(strip=True) for name in card_names]
     return (uni_links, uni_names)
 
 def get_course_links(soup: BeautifulSoup, url: str) -> list[str]:
-    pass
+    course_links = []
+    all_course_links = soup.find_all('a', class_='pr_crinf')
+    for link in all_course_links:
+        href = link.get('href')
+        if href:
+            full_url = urljoin(url, href)
+            course_links.append(full_url)
+    return course_links
 
-
+def get_course_requirement(soup: BeautifulSoup) -> str | None:
+    requirement = soup.find('p', class_='ucas_pt')
+    if requirement:
+        return requirement.get_text(strip=True)
+    else:
+        return None
+    
 def main():
     with requests.Session() as session:
         session.headers.update({
@@ -45,6 +65,15 @@ def main():
 
         uni_links, uni_names = start(ranking_soup)
 
-        
+        for uni_link in uni_links:
+            uni_soup = get_soup(session, uni_link)
+            course_links = get_course_links(uni_soup, uni_link)
+
+            for course_link in course_links:
+                course_soup = get_soup(session, course_link)
+                requirement = get_course_requirement(course_soup)
+                print(f"Course URL: {course_link}")
+                print(f"Requirement: {requirement}\n")
+            
 
 main()
