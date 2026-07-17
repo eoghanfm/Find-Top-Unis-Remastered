@@ -1,15 +1,18 @@
 import requests
 from bs4 import BeautifulSoup
 
-response = requests.get("https://www.thecompleteuniversityguide.co.uk/courses/details/beng-mechanical-engineering-with-a-year-in-industry/58431474#entry_requirement")
+response = requests.get("https://www.thecompleteuniversityguide.co.uk/courses/university-search/postgraduate/all/university-of-cambridge?pg=23")
 
 soup = BeautifulSoup(response.text, "html.parser")
 
-#a = soup.find_all("a", class_="pr_crinf")
+a = next_arrow = soup.select_one(
+    'nav.pg_nav.desk_pg a[aria-label="Next"]'
+)
 
 #for link in a:
 #    print(link.get('href'))
-#print(len(a))
+print(len(a))
+print(next_arrow.get('href'))
 
-requirement = soup.find('p', class_='ucas_pt').get_text(strip=True)
-print(requirement)
+#requirement = soup.find('span', class_='ucanxtarw')
+#print(requirement)
