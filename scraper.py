@@ -122,39 +122,64 @@ def main():
         # get initial table of unis info
         uni_links, uni_names = start(ranking_soup)
 
-        unis = []
-
-        #for uni in uni_names:
-        #    unis.append({
-        #        "uniName": uni,
-        #    })
+        ## EXAMPLE STRUCTURE ##
+        #unis = {
+        #   "Imperial College London": : [
+        #       {"name": "Mechanical Engineering", "requirement": "AAB"},
+        #       {"name": "Aerospace Engineering", "requirement": "AAA"},
+        #    ],
+        #   "Cambdridge University": [...
+        # },
+        unis = {}
 
         repeat = 3  # ask user
 
         it = 0
         for uni_link in uni_links:
+            print(f"Processing university {it + 1}/{len(uni_links)}: {uni_names[it]}")
+ 
             uni_soup = get_soup(session, uni_link)
             course_info = get_courses(session, uni_soup, uni_link)
             #print(course_info)
 
+            individual_uni = []
+
             for course in course_info:
+                print(f"Processing course: {course['name']}")
+
                 course_link = course["url"]
                 course_soup = get_soup(session, course_link)
                 requirement = get_course_requirement(course_soup)
 
-                unis.append({
-                    uni_names[it]: {
-                        "courseName": course["name"],
-                        "requirement": requirement,
+                individual_uni.append({
+                    "name": course["name"],
+                    "requirement": requirement if requirement else "N/A"
                     }
-                })
-                print(f"Course URL: {course_link}")
-                print(f"Requirement: {requirement}\n")
+                )
+            
+            print()
+            print()
+            
+            unis[uni_names[it]] = individual_uni
+
+
             
             it += 1
-            if repeat >= it:
+            if it >= repeat:
                 break
-            
+
+    return unis
 
 
-main()
+unis = main()
+
+for uni_name, courses in unis.items():
+    print(f"University: {uni_name}")
+    for course in courses:
+        print(f"  Course: {course['name']}, Requirement: {course['requirement']}")
+
+    print()
+    print()
+
+
+print(unis)
