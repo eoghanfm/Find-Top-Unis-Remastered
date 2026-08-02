@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
 
-url = requests.get("https://www.thecompleteuniversityguide.co.uk/courses/university-search/undergraduate/mechanical-engineering/imperial-college-london")
+url = requests.get("https://www.thecompleteuniversityguide.co.uk/courses/university-search/undergraduate/mechanical-engineering/loughborough-university")
 
 soup = BeautifulSoup(url.text, "html.parser")
 
@@ -25,6 +25,9 @@ course_cards = soup.find_all(
             class_="sr_cont",
         )
 
+print(f"Found {len(course_cards)} course cards on page: {url.url}")
+
+
 for card in course_cards:
     name_element = card.find("h3")
     link_element = card.find(
@@ -34,4 +37,3 @@ for card in course_cards:
 
     print(name_element.get_text(strip=True) if name_element else "No name found")
     print(link_element.get("href") if link_element else "No link found")
-    

@@ -1,0 +1,2498 @@
+{
+    "Imperial College London": [
+        {
+            "name": "Materials with Nuclear Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Cambridge": [
+        {
+            "name": "Advanced Diploma in Theology, Religion and Philosophy of Religion",
+            "requirement": "N/A"
+        },
+        {
+            "name": "AdvDip in Hebrew Studies",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Cambridge Executive MBA",
+            "requirement": "N/A"
+        },
+        {
+            "name": "CDT MPhil + PhD in Computational Methods for Materials Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Doctor of Business",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Doctor of Veterinary Medicine",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Executive Master of Accounting (MAcc)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Global Executive MBA",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Master of Corporate Law (MCL)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Master of Education (Critical Approaches to Children's Literature) PGCE entry only",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Master of Education (Mathematics Education) PACES entry only",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Master of Education (Mathematics Education) PGCE entry only",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Master of Education (Primary Education) PACES entry only",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Master of Education (Primary Education) PGCE entry only",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Master of Finance (MFin)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Master of Law (LLM)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Master of Studies in Sustainability Leadership",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Master of Surgery",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MD (Doctor of Medicine)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MEd in Education (Transforming Practice) PACES entry only",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MEd in Education (Transforming Practice) PGCE entry only",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Advanced Chemical Engineering",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in American History",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Anglo-Saxon, Norse and Celtic",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Archaeological Research",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Archaeological Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Archaeology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Architecture and Urban Studies",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Asian and Middle Eastern Studies (Chinese Studies)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Asian and Middle Eastern Studies (Classical Islamic History and Culture)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Asian and Middle Eastern Studies (Hebrew and Pre-Modern Jewish History and Culture)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Asian and Middle Eastern Studies (Hebrew and Semitic Studies)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Asian and Middle Eastern Studies (Japanese Studies)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Asian and Middle Eastern Studies (Korean Studies)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Asian and Middle Eastern Studies (Modern Middle Eastern Studies)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Asian and Middle Eastern Studies (Muslim-Jewish Relations)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Asian and Middle Eastern Studies by Research (Chinese Studies)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Asian and Middle Eastern Studies by Research (Japanese Studies)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Asian and Middle Eastern Studies by Research (Korean Studies)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Asian and Middle Eastern Studies by Research (Middle Eastern Studies)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Basic and Translational Neuroscience",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Biological Anthropological Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Biological Science (Biochemistry) by thesis",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Biological Science (Genetics) by thesis",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Biological Science (MRC Toxicology Unit) by thesis",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Biological Science (Pathology) by thesis",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Biological Science (Pharmacology) by thesis",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Biological Science (Physiology, Development and Neuroscience) by thesis",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Biological Science (Plant Sciences) by thesis",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Biological Science (Psychology) by thesis",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Biological Science (Sanger Institute) by thesis",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Biological Science (Stem Cell Biology) by thesis",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Biological Science (Veterinary Medicine) by thesis",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Biological Science (Zoology) by thesis",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Biological Sciences (Developmental Biology) by advanced study",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Biological Sciences (Reproduction and Embryogenesis) by advanced study",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Biotechnology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Chemical Engineering and Biotechnology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Classics",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Criminology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Data Intensive Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Digital Humanities",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Early Modern History",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Earth Sciences",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Economic and Social History",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Economics and Data Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Education (Critical Approaches to Children's Literature)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Education (Knowledge, Power and Politics)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Education (Mathematics Education)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Education (Primary Education)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Education (Psychology and Education) part time",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Education (Research in Second Language Education)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Egyptology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Energy Technologies",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Engineering",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Engineering for Sustainable Development",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Environmental Policy",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Ethics of AI, Data and Algorithms",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in European, Latin American and Comparative Literatures and Cultures by thesis",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Film and Screen Studies by Advanced Study",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Film and Screen Studies by thesis",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Foundations of Clinical Psychology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Genomic Medicine",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Geography",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Heritage Studies",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in History of Art and Architecture",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Human Evolutionary Studies",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Human-Inspired Artificial Intelligence",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Industrial Systems, Manufacture, and Management",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Innovation, Strategy and Organisation",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Latin American Studies (by thesis only)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Linguistics and Language Sciences",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Machine Learning and Machine Intelligence",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Materials Science and Metallurgy",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Medical Science (CIMR)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Medical Science (Clinical Biochemistry)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Medical Science (Clinical Neurosciences)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Medical Science (CRUK CI)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Medical Science (Haematology)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Medical Science (Medical Genetics)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Medical Science (Medicine)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Medical Science (Obstetrics and Gynaecology)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Medical Science (Oncology)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Medical Science (Paediatrics)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Medical Science (Psychiatry)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Medical Science (Radiology)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Medical Science (Surgery)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Medieval History",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Micro and Nanotechnology Enterprise",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Modern European History",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Molecular Mechanisms of Human Disease",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Multi-disciplinary Gender Studies",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Music",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Nuclear Energy",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Philosophy",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Physics",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Polar Studies (Scott Polar Research Institute)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Population Health Sciences",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Scientific Computing",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Social Anthropological Research",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Social Anthropology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Sociology (Political and Economic Sociology)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Sociology (The Sociology of Marginality and Exclusion)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Sociology (The Sociology of Media and Culture)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Strategy, Marketing and Operations",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Technology Policy",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Theology, Religion and Philosophy of Religion",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Therapeutic Sciences",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Veterinary Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MPhil in Veterinary Science (Physiology, Development and Neuroscience) by thesis",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MRes in Genomic Medicine",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MSt (flexible) in Genomic Medicine",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MSt (flexible, intensive) Genomic Medicine",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MSt in AI Ethics and Society",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MSt in Applied Criminology and Police Management (Police Executive Programme)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MSt in Building History",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MSt in Climate Environment and Urban Policy",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MSt in Clinical Medicine",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MSt in Coaching",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mst in Construction Engineering",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MSt in Creative Writing",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MSt in Entrepreneurship",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MSt in Healthcare Data Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MSt in History",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MSt in History of Art and Visual Culture",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MSt in Medical Education",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MSt in Real Estate",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MSt in Social Innovation",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MSt in Writing for Performance",
+            "requirement": "N/A"
+        },
+        {
+            "name": "National Institutes of Health Oxford/Cambridge Programme PhD",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Anglo-Saxon, Norse and Celtic",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Antarctic Studies",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Applied Mathematics and Theoretical Physics",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Archaeology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Architecture",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Asian and Middle Eastern Studies",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Biochemistry",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Biological Anthropology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Biological Science (Babraham Institute)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Biological Science (EBI)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Biological Science (MRC Laboratory of Molecular Biology)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Biological Science (MRC Toxicology Unit)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Biological Science (Sanger Institute)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Biological Sciences at the Department of Veterinary Medicine",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Biostatistics",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Biotechnology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Chemical Engineering",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Chemistry",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Classics",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Clinical Biochemistry",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Clinical Neurosciences",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Computation, Cognition and Language",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Computer Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Criminology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Earth Sciences",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Education",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Engineering",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Film and Screen Studies",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in French",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Genetics",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Genomic Medicine",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Geography",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in German",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Haematology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in History",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in History and Philosophy of Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in History of Art",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Human-Inspired Artificial Intelligence",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Italian",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Land Economy",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Latin American Studies",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Linguistics: Theoretical and Applied Linguistics",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Materials Science and Metallurgy",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Medical Science (CIMR)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Medical Science (CRUK CI)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Medical Science (MRC Mitochondrial Biology Unit)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Medicine",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Music",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Obstetrics and Gynaecology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Oncology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Paediatrics",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Pathology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Pharmacology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Physics",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Physiology, Development and Neuroscience",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Plant Sciences",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Polar Studies (Scott Polar Research Institute)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Portuguese",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Psychiatry",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Psychology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Public Health and Primary Care",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Pure Mathematics and Mathematical Statistics",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Radiology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Slavonic Studies",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Social Anthropology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Sociology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Spanish",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Stem Cell Biology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Surgery",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Theology and Religious Studies",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Veterinary Medicine",
+            "requirement": "N/A"
+        },
+        {
+            "name": "PhD in Zoology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Postgraduate Certificate in Clinical Research, Education and Leadership",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Postgraduate Certificate in Dental Education",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Postgraduate Certificate in Genomic Medicine",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Postgraduate Certificate in Medical Education",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Postgraduate Certificate in Philosophy",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Postgraduate Certificate in Teaching Creative Writing",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Postgraduate Diploma in Genomic Medicine",
+            "requirement": "N/A"
+        },
+        {
+            "name": "The Cambridge MBA",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Oxford": [
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Sheffield": [
+        {
+            "name": "Mechanical Engineering with a Foundation Year - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with a Foundation Year - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with an Industrial Placement Year - BEng (Hons)",
+            "requirement": "A level : A*AA"
+        }
+    ],
+    "University of Bath": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering w Manufacturing & Management w professional placement - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering w Manufacturing and Management w professional placement - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Manufacturing and Management - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Manufacturing and Management - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with professional placement - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with professional placement - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical with Automotive Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical with Automotive Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical with Automotive Engineering with professional placement - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical with Automotive Engineering with professional placement - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Bristol": [
+        {
+            "name": "BEng Mechanical and Electrical Engineering with a Year in Industry",
+            "requirement": "N/A"
+        },
+        {
+            "name": "BEng Mechanical Engineering with a Year in Industry",
+            "requirement": "A level : A*AA"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level : AAB -  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level : AAB -  A*AA"
+        },
+        {
+            "name": "MEng Mechanical Engineering with a Year in Industry",
+            "requirement": "A level : A*AA"
+        },
+        {
+            "name": "MEng Mechanical Engineering with Study Abroad",
+            "requirement": "A level : A*AA"
+        }
+    ],
+    "UCL (University College London)": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering with Business Finance - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering with Business Finance with Integrated Foundation Year MEng - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Integrated Foundation Year BEng - BEng",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Integrated Foundation Year MEng - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Leeds": [
+        {
+            "name": "Automotive Engineering (Industrial) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Automotive Engineering (Industrial) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Automotive Engineering - BEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Automotive Engineering - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering (Industrial) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (Industrial) - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        }
+    ],
+    "University of Manchester": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  A*A*A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  A*A*A"
+        },
+        {
+            "name": "Mechanical Engineering with an Integrated Foundation Year BEng",
+            "requirement": "Scottish Advanced Higher :"
+        },
+        {
+            "name": "Mechanical Engineering with Industrial Experience (5 years) - MEng (Hons)",
+            "requirement": "A level :  A*A*A"
+        }
+    ],
+    "Loughborough University": [
+        {
+            "name": "Automotive Engineering (with placement year) - BEng (Hons)",
+            "requirement": "A level :  AAB"
+        },
+        {
+            "name": "Automotive Engineering (with placement year) - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Automotive Engineering - BEng (Hons)",
+            "requirement": "A level :  AAB"
+        },
+        {
+            "name": "Automotive Engineering - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Automotive Engineering with a Foundation Year - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Automotive Materials - BEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Automotive Materials - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Mechanical Engineering (with placement year) - BEng (Hons)",
+            "requirement": "A level :  AAB"
+        },
+        {
+            "name": "Mechanical Engineering (with placement year) - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  AAB"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering with a Foundation Year - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "The University of Edinburgh": [
+        {
+            "name": "Electrical and Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level : ABB -  AAA"
+        },
+        {
+            "name": "Electrical and Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level : ABB -  AAA"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level : ABB -  AAA"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level : ABB -  AAA"
+        }
+    ],
+    "University of Birmingham": [
+        {
+            "name": "Mechanical Engineering (Automotive) - BEng (Hons)",
+            "requirement": "A level :  AAB"
+        },
+        {
+            "name": "Mechanical Engineering (Automotive) - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  AAB"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  AAB"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        }
+    ],
+    "Queen's University Belfast": [
+        {
+            "name": "Mechanical Engineering (Foundation degree delivered at Belfast Metropolitan College, Millfield campus) - FdEng",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Mechanical Engineering with Sandwich - BEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Mechanical Engineering with Sandwich - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        }
+    ],
+    "University of Southampton": [
+        {
+            "name": "Artificial Intelligence with Industrial Studies and Foundation Year - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Biomedical Engineering with Industrial Studies and Foundation Year - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Chemical Engineering with Industrial Placement Year and Foundation Year - BEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Computer Engineering with Industrial Studies and Foundation Year - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science with Industrial Studies and Foundation Year - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Electrical and Electronic Engineering with Industrial Studies and Foundation Year - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Electrical Engineering with Industrial Studies and Foundation Year - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Electronic Engineering with Industrial Studies and Foundation Year - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Maritime Engineering - BEng (Hons)",
+            "requirement": "A level :  AAB"
+        },
+        {
+            "name": "Maritime Engineering - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Maritime Engineering with Foundation Year - MEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Maritime Engineering with Industrial Placement Year - BEng (Hons)",
+            "requirement": "A level :  AAB"
+        },
+        {
+            "name": "Maritime Engineering with Industrial Placement Year - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Maritime Engineering with Industrial Placement Year and Foundation Year - BEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Maritime Engineering with Industrial Placement Year and Foundation Year - MEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering / Aerospace with Industrial Placement Year - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering / Automotive with Industrial Placement Year - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering / Biomedical Engineering - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering / Biomedical Engineering with Industrial Placement Year - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering / Mechatronics with Industrial Placement Year - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering / Sustainable Energy Systems with Industrial Placement Year - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - MEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Mechanical Engineering with Industrial Placement Year - BEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering with Industrial Placement Year - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering with Industrial Placement Year and Foundation Year - BEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Mechanical Engineering with Industrial Placement Year and Foundation Year - MEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Mechanical Engineering/Aerospace Engineering - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering/Automotive Engineering - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering/Manufacturing - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering/Mechatronics - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering/Sustainable Energy Systems - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechatronic Engineering with Industrial Studies and Foundation Year - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Medical Engineering with Industrial Placement Year and Foundation Year - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Medical Engineering with Industrial Placement Year and Foundation Year - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MEng Maritime Engineering with Industrial Placement Year - International Naval Architecture",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MEng Maritime Engineering with Industrial Placement Year - Marine Engineering and Autonomy",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MEng Maritime Engineering with Industrial Placement Year - Naval Architecture",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MEng Maritime Engineering with Industrial Placement Year - Ocean Energy and Offshore Engineering",
+            "requirement": "N/A"
+        },
+        {
+            "name": "MEng Maritime Engineering with Industrial Placement Year - Yacht and High Performance Craft",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Software Engineering with Industrial Studies and Foundation Year - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Nottingham": [
+        {
+            "name": "Industrial Economics with a Placement Year",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering including an Industrial Year - BEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Mechanical Engineering Including an Industrial year - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering including an Integrated Study Abroad Year (Yr 2 abroad) - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering including an Integrated Study Abroad Year (Yr 3 abroad) - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering including an Integrated Study Abroad Year - BEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Mechanical Engineering with Manufacturing - BEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Mechanical Engineering with Manufacturing - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Mechanical Engineering with Manufacturing including an Industrial Year - BEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Mechanical Engineering with Manufacturing including Industrial Year (Year ) MEng",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Glasgow": [
+        {
+            "name": "Mechanical Design Engineering - BEng (Hons)",
+            "requirement": "A level : BBB -  AAB"
+        },
+        {
+            "name": "Mechanical Design Engineering - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level : BBB -  AAB"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Mechanical Engineering with Aeronautics - BEng (Hons)",
+            "requirement": "A level : BBB -  AAB"
+        },
+        {
+            "name": "Mechanical Engineering with Aeronautics - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        }
+    ],
+    "University of Strathclyde": [
+        {
+            "name": "Aero-Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level : BBB -  ABB"
+        },
+        {
+            "name": "Aero-Mechanical Engineering - MEng",
+            "requirement": "A level : BBB -  AAB"
+        },
+        {
+            "name": "Electrical and Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level : BBB -  ABB"
+        },
+        {
+            "name": "Electrical and Mechanical Engineering - MEng",
+            "requirement": "A level : BBB -  AAB"
+        },
+        {
+            "name": "Electrical and Mechanical Engineering with International Study - MEng",
+            "requirement": "A level : BBB -  AAB"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level : BBB -  ABB"
+        },
+        {
+            "name": "Mechanical Engineering - MEng",
+            "requirement": "A level : BBB -  AAB"
+        },
+        {
+            "name": "Mechanical Engineering with International Study - BEng (Hons)",
+            "requirement": "A level : BBB -  ABB"
+        },
+        {
+            "name": "Mechanical Engineering with International Study - MEng",
+            "requirement": "A level : BBB -  AAB"
+        },
+        {
+            "name": "Naval Architecture and Marine Engineering - BEng (Hons)",
+            "requirement": "A level : BBB -  ABB"
+        },
+        {
+            "name": "Naval Architecture and Marine Engineering - MEng",
+            "requirement": "A level : BBB -  AAB"
+        },
+        {
+            "name": "Naval Architecture with High Performance Marine Vehicles - BEng (Hons)",
+            "requirement": "A level : BBB -  ABB"
+        },
+        {
+            "name": "Naval Architecture with High Performance Marine Vehicles - MEng",
+            "requirement": "A level : BBB -  AAB"
+        },
+        {
+            "name": "Naval Architecture with Ocean Engineering - BEng (Hons)",
+            "requirement": "A level : BBB -  ABB"
+        },
+        {
+            "name": "Naval Architecture with Ocean Engineering - MEng",
+            "requirement": "A level : BBB -  AAB"
+        }
+    ],
+    "University of Leicester": [
+        {
+            "name": "Mechanical Engineering (with a year abroad) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with a year abroad) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with Industry) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with Year in Industry) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "Heriot-Watt University": [
+        {
+            "name": "BEng (Hons) Mechanical Engineering [Dubai Campus]",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (Partnership College route)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  BBC"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  BBB"
+        },
+        {
+            "name": "Mechanical Engineering and Energy Engineering - BEng (Hons)",
+            "requirement": "A level :  BBC"
+        },
+        {
+            "name": "Mechanical Engineering and Energy Engineering - MEng (Hons)",
+            "requirement": "A level :  BBB"
+        }
+    ],
+    "University of Surrey": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Exeter": [
+        {
+            "name": "Business and Laws with Industrial Placement - BBL",
+            "requirement": "A level : ABB -  AAB"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level : ABB -  AAB"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level : ABB -  AAB"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Year in Industry - BEng (Hons)",
+            "requirement": "A level : ABB -  AAB"
+        },
+        {
+            "name": "Mechanical Engineering with Year in Industry - MEng (Hons)",
+            "requirement": "A level : ABB -  AAB"
+        }
+    ],
+    "University of Liverpool": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with a Year in Industry - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with a Year in Industry - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "Lancaster University": [
+        {
+            "name": "Mechanical Engineering (Study Abroad) - BEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Mechanical Engineering (Study Abroad) - MEng",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Mechanical Engineering (with a Foundation Year)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with a Foundation Year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Mechanical Engineering with Placement Year - BEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Mechanical Engineering with Placement Year - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Nuclear Engineering (Study Abroad) - BEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Nuclear Engineering (Study Abroad) - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Nuclear Engineering (with a Foundation Year)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Nuclear Engineering (with a Foundation Year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Nuclear Engineering - BEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Nuclear Engineering - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Nuclear Engineering with Placement Year - BEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Nuclear Engineering with Placement Year - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        }
+    ],
+    "Cardiff University": [
+        {
+            "name": "Mechanical Engineering (Year in Industry) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (Year in Industry) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Aberdeen": [
+        {
+            "name": "Engineering (Mechanical and Electrical) - BEng (Hons)",
+            "requirement": "A level :  BBC"
+        },
+        {
+            "name": "Engineering (Mechanical) - BEng (Hons)",
+            "requirement": "A level :  BBC"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  BBB"
+        },
+        {
+            "name": "Mechanical Engineering with Management - MEng (Hons)",
+            "requirement": "A level :  BBB"
+        },
+        {
+            "name": "Mechanical Engineering with Subsea Technology - MEng (Hons)",
+            "requirement": "A level :  BBB"
+        }
+    ],
+    "Queen Mary University of London": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  AAB"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Mechanical Engineering with a Year Abroad - BEng (Hons)",
+            "requirement": "A level :  AAB"
+        },
+        {
+            "name": "Mechanical Engineering with a Year Abroad - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Mechanical Engineering with Industrial Experience - BEng (Hons)",
+            "requirement": "A level :  AAB"
+        },
+        {
+            "name": "Mechanical Engineering with Industrial Experience - MEng (Hons)",
+            "requirement": "A level :  AAA"
+        }
+    ],
+    "Newcastle University": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering BEng (Hons)",
+            "requirement": "A level : ABB"
+        },
+        {
+            "name": "Naval Architecture and Marine Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Naval Architecture and Marine Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Dundee": [
+        {
+            "name": "Computer Science (User Experience and Design) with Industrial Placement",
+            "requirement": "A level : CCD -  CCC"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  CCC"
+        },
+        {
+            "name": "Mechanical Engineering with Renewables - BEng (Hons)",
+            "requirement": "A level :  CCC"
+        }
+    ],
+    "Swansea University": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level : BCC -  ABB"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  AAB"
+        },
+        {
+            "name": "Mechanical Engineering with a Foundation Year - BEng (Hons)",
+            "requirement": "A level : CDD -  CCC"
+        },
+        {
+            "name": "Mechanical Engineering with a Year Abroad - BEng (Hons)",
+            "requirement": "A level : BCC -  ABB"
+        },
+        {
+            "name": "Mechanical Engineering with a Year Abroad - MEng (Hons)",
+            "requirement": "A level :  AAB"
+        },
+        {
+            "name": "Mechanical Engineering with a Year in Industry - BEng (Hons)",
+            "requirement": "A level : BCC -  ABB"
+        },
+        {
+            "name": "Mechanical Engineering with a Year in Industry - MEng (Hons)",
+            "requirement": "A level :  AAB"
+        }
+    ],
+    "Ulster University": [
+        {
+            "name": "Mechanical and Manufacturing Engineering - BEng (Hons)",
+            "requirement": "A level :  BBC"
+        },
+        {
+            "name": "Mechanical Engineering (Applied Research) MSc",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Mechanical Engineering with Enterprise Development - BEng (Hons)",
+            "requirement": "A level :  BBC"
+        }
+    ],
+    "University of Staffordshire": [
+        {
+            "name": "Automotive & Motorsport Engineering (with a Placement Year) - BEng (Hons)",
+            "requirement": "A level :  BBC"
+        },
+        {
+            "name": "Automotive & Motorsport Engineering - BEng (Hons)",
+            "requirement": "A level :  BCC"
+        },
+        {
+            "name": "Automotive and Motorsport Engineering (with a Foundation Year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with a Foundation Year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with a placement year) - BEng (Hons)",
+            "requirement": "A level :  BCC"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  BCC"
+        },
+        {
+            "name": "Mechanical Engineering - HND",
+            "requirement": "N/A"
+        }
+    ],
+    "Aston University, Birmingham": [
+        {
+            "name": "Engineering and Physical Sciences Foundation Programme: Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Sussex": [
+        {
+            "name": "Mechanical Engineering (with an industrial placement year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with an industrial placement year) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Robotics (with an industrial placement year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Robotics (with an industrial placement year) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Robotics - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Robotics - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Sustainable Automotive Engineering (with an industrial placement year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Sustainable Automotive Engineering (with an industrial placement year) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Sustainable Automotive Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Sustainable Automotive Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "Bristol, UWE": [
+        {
+            "name": "Automotive Engineering (with Foundation Year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Automotive Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with Foundation Year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "Northumbria University, Newcastle": [
+        {
+            "name": "Automotive Engineering (Extended Degree) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Automotive Engineering - BEng (Hons)",
+            "requirement": "UCAS Points : 96 -  112"
+        },
+        {
+            "name": "Automotive Engineering - MEng (Hons)",
+            "requirement": "UCAS Points : 96 -  112"
+        },
+        {
+            "name": "Mechanical Engineering (Extended Degree) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "UCAS Points : 96 -  112"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "UCAS Points : 96 -  112"
+        }
+    ],
+    "University of Plymouth": [
+        {
+            "name": "Marine Engineering with Naval Architecture - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Marine Engineering with Naval Architecture - MEng",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (Nuclear Science) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (Top-Up) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "A level :"
+        }
+    ],
+    "Nottingham Trent University": [
+        {
+            "name": "Filmmaking - BA (Hons)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Mechanical Engineering (with Foundation Year) FT - BEng",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Mechanical Engineering for England - HNC",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering for England - HND",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Physics with Nuclear Technology",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Physics with Nuclear Technology",
+            "requirement": "A level :"
+        }
+    ],
+    "University of Brighton": [
+        {
+            "name": "Automotive Engineering (Top-Up)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Automotive Engineering (with Integrated Foundation Year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Automotive Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Automotive Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical and Manufacturing Engineering (Top-Up)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with Integrated Foundation Year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Strength and Conditioning",
+            "requirement": "N/A"
+        }
+    ],
+    "Robert Gordon University": [
+        {
+            "name": "Mechanical and Offshore Engineering - BEng (Hons)",
+            "requirement": "A level :  BCC"
+        },
+        {
+            "name": "Mechanical and Offshore Engineering - MEng",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  BCC"
+        },
+        {
+            "name": "Mechanical Engineering - MEng",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Hertfordshire": [
+        {
+            "name": "Automotive Engineering - BEng (Hons)",
+            "requirement": "A level : BBB -  ABB"
+        },
+        {
+            "name": "Automotive Engineering - MEng (Hons)",
+            "requirement": "A level : ABB -  AAB"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level : BBB -  ABB"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Motorsport Engineering - BEng (Hons)",
+            "requirement": "A level : BBC -  BBB"
+        },
+        {
+            "name": "Motorsport Engineering - MEng (Hons)",
+            "requirement": "A level : ABB -  AAB"
+        }
+    ],
+    "London South Bank University": [
+        {
+            "name": "Mechanical Engineering (with Foundation Year) - BEng (Hons)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  BBB"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  AAB"
+        },
+        {
+            "name": "Mechanical Engineering and Design (Top-up) - BEng (Hons)",
+            "requirement": "A level :"
+        }
+    ],
+    "University of Bradford": [
+        {
+            "name": "Mechanical Engineering (with Integrated Foundation Year and Placement Year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with Integrated Foundation Year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with Placement Year) - BEng (Hons)",
+            "requirement": "A level :  BCC"
+        },
+        {
+            "name": "Mechanical Engineering (with Placement Year) - MEng",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  BCC"
+        },
+        {
+            "name": "Mechanical Engineering - MEng",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Lincoln": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level : BCC -  BBC"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level : BBC -  BBB"
+        },
+        {
+            "name": "Mechanical Engineering with Science Foundation Year - BEng (Hons)",
+            "requirement": "A level :  CC"
+        },
+        {
+            "name": "Mechatronics with Science Foundation Year - BEng (Hons)",
+            "requirement": "A level :  CC"
+        }
+    ],
+    "Sheffield Hallam University": [
+        {
+            "name": "Automotive Engineering - BEng (Hons)",
+            "requirement": "UCAS Points : 112 -  120"
+        },
+        {
+            "name": "Automotive Engineering - MEng",
+            "requirement": "UCAS Points : 128 -  136"
+        },
+        {
+            "name": "Automotive Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "UCAS Points :  80"
+        },
+        {
+            "name": "Mechanical Engineering (Top up) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "UCAS Points : 112 -  120"
+        },
+        {
+            "name": "Mechanical Engineering - MEng",
+            "requirement": "UCAS Points : 128 -  136"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "UCAS Points :  80"
+        }
+    ],
+    "Oxford Brookes University": [
+        {
+            "name": "Automotive Engineering with Electric Vehicles - BEng (Hons)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Automotive Engineering with Electric Vehicles - MEng (Hons)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Electro-Mechanical Engineering - BEng (Hons)",
+            "requirement": "UCAS Points :  112"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Mechanical Engineering Design (Solihull College and University Centre) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering Design - BEng (Hons)",
+            "requirement": "UCAS Points :  112"
+        },
+        {
+            "name": "Motorsport Engineering (Wiltshire College and University Centre, Castle Combe Race Circuit) - FdEng",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Motorsport Engineering - BEng (Hons)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Motorsport Engineering - MEng (Hons)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Motorsport Technology (Top-up) (Wiltshire College and University Centre - Castle Coombe Campus) - BEng",
+            "requirement": "N/A"
+        }
+    ],
+    "Brunel University of London": [
+        {
+            "name": "Automotive Engineering - BEng (Hons)",
+            "requirement": "A level : BBB -  ABB"
+        },
+        {
+            "name": "Automotive Engineering - MEng (Hons)",
+            "requirement": "A level : BBB -  ABB"
+        },
+        {
+            "name": "Automotive Engineering with Placement - BEng (Hons)",
+            "requirement": "A level : BBB -  ABB"
+        },
+        {
+            "name": "Automotive Engineering with Placement - MEng (Hons)",
+            "requirement": "A level : BBB -  ABB"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level : BBB -  ABB"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level : BBB -  ABB"
+        },
+        {
+            "name": "Mechanical Engineering with Placement - BEng (Hons)",
+            "requirement": "A level : BBB -  ABB"
+        },
+        {
+            "name": "Mechanical Engineering with Placement - MEng (Hons)",
+            "requirement": "A level : BBB -  ABB"
+        }
+    ],
+    "University of Sunderland": [
+        {
+            "name": "Automotive Engineering (Top-up) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (Top-Up) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Integrated Foundation Year - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Sustainable Design Engineering Top Up - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Portsmouth": [
+        {
+            "name": "Mechanical and Manufacturing Engineering (Distance Learning) (Top-Up) (2 Year) - BEngTec (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical and Manufacturing Engineering (Distance Learning) (Top-Up) (3 Year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical and Manufacturing Engineering (Top-Up) (Degree Apprenticeship) (1 Year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical and Manufacturing Engineering (Top-Up) (Degree Apprenticeship) (2 Year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical and Manufacturing Engineering - BEng (Hons)",
+            "requirement": "A level : BCC -  BBC"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level : BBC -  BBB"
+        },
+        {
+            "name": "Mechanical Engineering - HNC",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng",
+            "requirement": "A level : BBB -  ABB"
+        }
+    ],
+    "Manchester Metropolitan University": [
+        {
+            "name": "Filmmaking (with Foundation Year) - BA (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  BBC"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "A level : DDD -  CDD"
+        }
+    ],
+    "Liverpool John Moores University": [
+        {
+            "name": "Marine and Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  BBC"
+        },
+        {
+            "name": "Marine and Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Marine and Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "A level :  CCD"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  BBC"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "A level :  CCD"
+        }
+    ],
+    "University of Hull": [
+        {
+            "name": "Computer Science and Cybersecurity with Industrial Placement",
+            "requirement": "UCAS Points :  112"
+        },
+        {
+            "name": "Geography (with Industrial Placement) - BA (Hons)",
+            "requirement": "UCAS Points :  120"
+        },
+        {
+            "name": "Mechanical Engineering (with foundation year) - BEng (Hons)",
+            "requirement": "UCAS Points :  80"
+        },
+        {
+            "name": "Mechanical Engineering (with Industrial Placement) - BEng (Hons)",
+            "requirement": "A level :  B"
+        },
+        {
+            "name": "Mechanical Engineering (with Industrial Placement) - MEng (Hons)",
+            "requirement": "A level :  B"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  B"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  B"
+        }
+    ],
+    "Bournemouth University": [
+        {
+            "name": "Mechanical Engineering (Integrated Master's) - MEng (Hons)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Mechanical Engineering (with Foundation Year option) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ]
+}
