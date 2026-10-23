@@ -2494,5 +2494,371 @@
             "name": "Mechanical Engineering - BEng (Hons)",
             "requirement": "N/A"
         }
+    ],
+    "Glasgow Caledonian University": [
+        {
+            "name": "Mechanical Engineering (GCU Pathways) - BEng (Hons)",
+            "requirement": "Scottish Higher :  BB"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  CCC"
+        },
+        {
+            "name": "Mechanical Engineering - MEng",
+            "requirement": "A level :  CCC"
+        }
+    ],
+    "University of Huddersfield": [
+        {
+            "name": "Mechanical Engineering (Top-Up) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "A level :  CC"
+        }
+    ],
+    "Coventry University": [
+        {
+            "name": "Electro-Mechanical Engineering - BEng",
+            "requirement": "UCAS Points :  104"
+        },
+        {
+            "name": "Electro-Mechanical Engineering - HNC",
+            "requirement": "UCAS Points :  64"
+        },
+        {
+            "name": "Electro-Mechanical Engineering - HND",
+            "requirement": "UCAS Points :  80"
+        },
+        {
+            "name": "Electro-Mechanical Engineering with foundation year - BEng (Hons)",
+            "requirement": "UCAS Points :  40"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  BBC"
+        },
+        {
+            "name": "Mechanical Engineering - MEng",
+            "requirement": "A level :  BBB"
+        },
+        {
+            "name": "Mechanical Engineering with foundation year - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "City St George's, University of Lon...": [
+        {
+            "name": "Mechanical and Design Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical and Design Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical and Design Engineering with Foundation - BEng (Hons)",
+            "requirement": "A level :  CDD"
+        },
+        {
+            "name": "Mechanical and Design Engineering with placement - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Chichester": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  BCC"
+        }
+    ],
+    "University of the West of Scotland": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  CCD"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  BBC"
+        }
+    ],
+    "Edinburgh Napier University": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  CCC"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of East London": [
+        {
+            "name": "Mechanical Engineering (with Foundation Year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Wolverhampton": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "A level :  DD"
+        },
+        {
+            "name": "Mechanical Engineering with Sandwich Placement - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Derby": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Salford": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "A level :"
+        }
+    ],
+    "University of Kent": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level : BCC -  BBB"
+        },
+        {
+            "name": "Mechanical Engineering including a - Foundation Year - BEng (Hons)",
+            "requirement": "A level :  DDD"
+        },
+        {
+            "name": "Mechanical Engineering with a - Year in Industry - BEng (Hons)",
+            "requirement": "A level : BCC -  BBB"
+        }
+    ],
+    "Teesside University": [
+        {
+            "name": "Engineering (Mechanical Technology) (Top-up) (Online) - BEngTec (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Engineering (Mechanical Technology) (Top-up) - BEngTec (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (Top-up) (Online) - BEngTec (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (Top-up) - BEngTec (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with Foundation Year and Optional Year in Industry) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with Optional Year in Industry) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with Optional Year in Industry) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - HNC",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Greenwich": [
+        {
+            "name": "Mechanical Engineering (Extended) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Lancashire": [
+        {
+            "name": "Mechanical Engineering (with Foundation Year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with Foundation Year) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "De Montfort University": [
+        {
+            "name": "Mechanical Engineering (Integrated Masters) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "Anglia Ruskin University": [
+        {
+            "name": "Mechanical Engineering (with Placement year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "GCSE/National 4/National 5 : 4 GCSEs at grade C, or grade 4, or above including English. Grade B/6 in Maths GCSE is required."
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering [with Foundation Year] - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering [with Foundation Year] - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering [with Foundation Year] [with Placement Year] - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering [with Placement Year] - BEng (Hons)",
+            "requirement": "GCSE/National 4/National 5 : 4 GCSEs at grade C, or grade 4, or above including English. Grade B/6 in Maths GCSE is required."
+        }
+    ],
+    "Birmingham City University": [
+        {
+            "name": "BEng (Hons) Mechanical Engineering with Professional Placement Year",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  BBC"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "A level :  CDD"
+        }
+    ],
+    "Kingston University": [
+        {
+            "name": "Mechanical Engineering (Automotive Engineering) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (Automotive Engineering) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (Automotive Engineering) with Foundation Year - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (Automotive Engineering) with Professional Placement - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (Automotive Engineering) with Professional Placement - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Professional Placement - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Professional Placement - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "Southampton, Solent University": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng",
+            "requirement": "UCAS Points : 104 -  120"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation - MEng",
+            "requirement": "UCAS Points : 104 -  120"
+        },
+        {
+            "name": "Mechanical Engineering with Science and Engineering Foundation Year - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "Canterbury Christ Church University": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "N/A"
+        }
     ]
 }

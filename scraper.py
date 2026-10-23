@@ -163,6 +163,10 @@ def main():
             individual_uni = []
 
             for course in course_info:
+                # filter courses
+                if "mechanical" not in course["name"].lower():
+                    continue
+
                 print(f"Processing course: {course['name']}")
 
                 course_link = course["url"]
@@ -201,16 +205,5 @@ def main():
 
     return unis
 
-"""
-unis = main()
-
-for uni_name, courses in unis.items():
-    print(f"University: {uni_name}")
-    for course in courses:
-        print(f"  Course: {course['name']}, Requirement: {course['requirement']}")
-
-    print()
-    print()
-
-
-"""
+if __name__ == "__main__":
+    main()
