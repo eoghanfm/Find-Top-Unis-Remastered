@@ -6,8 +6,6 @@ import random
 
 from json_handler import save_progress, load_progress
 
-initial_url = 'https://www.thecompleteuniversityguide.co.uk/league-tables/rankings/mechanical-engineering'
-
 
 def get_soup(session: requests.Session, url: str) -> BeautifulSoup | None:
     try:
@@ -20,7 +18,7 @@ def get_soup(session: requests.Session, url: str) -> BeautifulSoup | None:
     return BeautifulSoup(response.text, 'html.parser')
 
 
-def start(soup: BeautifulSoup) -> tuple[list[str], list[str]]:
+def start(soup: BeautifulSoup, ranking_url: str) -> tuple[list[str], list[str]]:
     cards = soup.find_all('a', class_='vw_crlnk')
     card_names = soup.find_all('a', class_='uni_lnk')
     #ranking_numbers = soup.find_all('span', class_='uninum')
@@ -29,7 +27,7 @@ def start(soup: BeautifulSoup) -> tuple[list[str], list[str]]:
     for card in cards:
         href = card.get('href')
         if href and not href.strip().lower().startswith("javascript:"):  # Ignore JavaScript links
-            full_url = urljoin(initial_url, href)
+            full_url = urljoin(ranking_url, href)
             full_url = full_url.replace("/clearing", "")  # Remove "/clearing" from the URL
             uni_links.append(full_url)
     
@@ -109,7 +107,7 @@ def get_course_requirement(soup: BeautifulSoup) -> str | None:
     else:
         return None
     
-def main():
+def main(ranking_url: str = 'https://www.thecompleteuniversityguide.co.uk/league-tables/rankings/mechanical-engineering', course_keyword: str = 'mechanical'):
     EXTRA_DELAY = 0 # add more delay if website crashes
     failed_requests = 0
     
@@ -125,11 +123,11 @@ def main():
 
         ranking_soup = get_soup(
             session,
-            initial_url,
+            ranking_url,
         )
 
         # get initial table of unis info
-        uni_links, uni_names = start(ranking_soup)
+        uni_links, uni_names = start(ranking_soup, ranking_url)
 
         ## EXAMPLE STRUCTURE ##
         #unis = {
@@ -163,6 +161,10 @@ def main():
             individual_uni = []
 
             for course in course_info:
+                # filter courses
+                if course_keyword.lower() not in course["name"].lower():
+                    continue
+
                 print(f"Processing course: {course['name']}")
 
                 course_link = course["url"]
@@ -201,16 +203,5 @@ def main():
 
     return unis
 
-"""
-unis = main()
-
-for uni_name, courses in unis.items():
-    print(f"University: {uni_name}")
-    for course in courses:
-        print(f"  Course: {course['name']}, Requirement: {course['requirement']}")
-
-    print()
-    print()
-
-
-"""
+if __name__ == "__main__":
+    main()

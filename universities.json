@@ -2494,5 +2494,1127 @@
             "name": "Mechanical Engineering - BEng (Hons)",
             "requirement": "N/A"
         }
+    ],
+    "Glasgow Caledonian University": [
+        {
+            "name": "Mechanical Engineering (GCU Pathways) - BEng (Hons)",
+            "requirement": "Scottish Higher :  BB"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  CCC"
+        },
+        {
+            "name": "Mechanical Engineering - MEng",
+            "requirement": "A level :  CCC"
+        }
+    ],
+    "University of Huddersfield": [
+        {
+            "name": "Mechanical Engineering (Top-Up) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "A level :  CC"
+        }
+    ],
+    "Coventry University": [
+        {
+            "name": "Electro-Mechanical Engineering - BEng",
+            "requirement": "UCAS Points :  104"
+        },
+        {
+            "name": "Electro-Mechanical Engineering - HNC",
+            "requirement": "UCAS Points :  64"
+        },
+        {
+            "name": "Electro-Mechanical Engineering - HND",
+            "requirement": "UCAS Points :  80"
+        },
+        {
+            "name": "Electro-Mechanical Engineering with foundation year - BEng (Hons)",
+            "requirement": "UCAS Points :  40"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  BBC"
+        },
+        {
+            "name": "Mechanical Engineering - MEng",
+            "requirement": "A level :  BBB"
+        },
+        {
+            "name": "Mechanical Engineering with foundation year - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "City St George's, University of Lon...": [
+        {
+            "name": "Mechanical and Design Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical and Design Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical and Design Engineering with Foundation - BEng (Hons)",
+            "requirement": "A level :  CDD"
+        },
+        {
+            "name": "Mechanical and Design Engineering with placement - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Chichester": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  BCC"
+        }
+    ],
+    "University of the West of Scotland": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  CCD"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "A level :  BBC"
+        }
+    ],
+    "Edinburgh Napier University": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  CCC"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of East London": [
+        {
+            "name": "Mechanical Engineering (with Foundation Year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Wolverhampton": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "A level :  DD"
+        },
+        {
+            "name": "Mechanical Engineering with Sandwich Placement - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Derby": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Salford": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "A level :"
+        }
+    ],
+    "University of Kent": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level : BCC -  BBB"
+        },
+        {
+            "name": "Mechanical Engineering including a - Foundation Year - BEng (Hons)",
+            "requirement": "A level :  DDD"
+        },
+        {
+            "name": "Mechanical Engineering with a - Year in Industry - BEng (Hons)",
+            "requirement": "A level : BCC -  BBB"
+        }
+    ],
+    "Teesside University": [
+        {
+            "name": "Engineering (Mechanical Technology) (Top-up) (Online) - BEngTec (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Engineering (Mechanical Technology) (Top-up) - BEngTec (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (Top-up) (Online) - BEngTec (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (Top-up) - BEngTec (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with Foundation Year and Optional Year in Industry) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with Optional Year in Industry) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with Optional Year in Industry) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - HNC",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Greenwich": [
+        {
+            "name": "Mechanical Engineering (Extended) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Lancashire": [
+        {
+            "name": "Mechanical Engineering (with Foundation Year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (with Foundation Year) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "De Montfort University": [
+        {
+            "name": "Mechanical Engineering (Integrated Masters) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "Anglia Ruskin University": [
+        {
+            "name": "Mechanical Engineering (with Placement year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "GCSE/National 4/National 5 : 4 GCSEs at grade C, or grade 4, or above including English. Grade B/6 in Maths GCSE is required."
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering [with Foundation Year] - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering [with Foundation Year] - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering [with Foundation Year] [with Placement Year] - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering [with Placement Year] - BEng (Hons)",
+            "requirement": "GCSE/National 4/National 5 : 4 GCSEs at grade C, or grade 4, or above including English. Grade B/6 in Maths GCSE is required."
+        }
+    ],
+    "Birmingham City University": [
+        {
+            "name": "BEng (Hons) Mechanical Engineering with Professional Placement Year",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "A level :  BBC"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "A level :  CDD"
+        }
+    ],
+    "Kingston University": [
+        {
+            "name": "Mechanical Engineering (Automotive Engineering) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (Automotive Engineering) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (Automotive Engineering) with Foundation Year - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (Automotive Engineering) with Professional Placement - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering (Automotive Engineering) with Professional Placement - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Professional Placement - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Professional Placement - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "Southampton, Solent University": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering - MEng",
+            "requirement": "UCAS Points : 104 -  120"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation - MEng",
+            "requirement": "UCAS Points : 104 -  120"
+        },
+        {
+            "name": "Mechanical Engineering with Science and Engineering Foundation Year - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "Canterbury Christ Church University": [
+        {
+            "name": "Mechanical Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mechanical Engineering with Foundation Year - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of St Andrews": [
+        {
+            "name": "Art History and Computer Science",
+            "requirement": "A level :  AAA"
+        },
+        {
+            "name": "Biology and Computer Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science - MSci (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science and Economics",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science and Management",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science and Mathematics",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science and Philosophy",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science and Psychology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science and Statistics",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Warwick": [
+        {
+            "name": "Computer Science - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science BSc (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science with Business Studies",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Systems Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Systems Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "International Foundation Programme - Computer Science with Extended Intensive English",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Warwick International Foundation Programme - Computer Science",
+            "requirement": "N/A"
+        }
+    ],
+    "Durham University": [
+        {
+            "name": "Computer Science",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Computer Science - MEng (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Computer Science and Mathematics",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Computer Science and Mathematics - MSci (Hons)",
+            "requirement": "A level :  A*AA"
+        },
+        {
+            "name": "Computer Science with Foundation",
+            "requirement": "UCAS Points :"
+        }
+    ],
+    "King's College London, University o...": [
+        {
+            "name": "Computer Science",
+            "requirement": "A level :  A*A*A"
+        },
+        {
+            "name": "Computer Science - MSci (Hons)",
+            "requirement": "A level :  A*A*A"
+        },
+        {
+            "name": "Computer Science with a Year in Industry",
+            "requirement": "A level :  A*A*A"
+        },
+        {
+            "name": "Computer Science with Management",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science with Management and a Year in Industry",
+            "requirement": "A level :  A*A*A"
+        }
+    ],
+    "University of York": [
+        {
+            "name": "Computer Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (with a year in industry)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (with a year in industry) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science with Artificial Intelligence",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science with Artificial Intelligence (with a year in industry)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science with Artificial Intelligence (Yr in Ind) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science with Artificial Intelligence - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science with Cyber Security",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science with Cyber Security (with a year in industry)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science with Cyber Security (with a year in industry) - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science with Cyber Security - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science/Mathematics (Equal)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science/Mathematics (Equal) (Yr in Ind)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Electronic and Computer Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Electronic and Computer Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mathematics/Computer Science (Equal) - MMath (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Mathematics/Computer Science (Equal) with a year in industry - MMath (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "Royal Holloway, University of Londo...": [
+        {
+            "name": "Computer Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Artificial Intelligence)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Artificial Intelligence) - MSci (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Artificial Intelligence) with a Year-in-Industry",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Artificial Intelligence) with a Year-in-Industry - MSci (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Cyber Security)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Cyber Security) - MSci (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Cyber Security) with a Year-in-Industry",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Cyber Security) with Year-in-Industry - MSci (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Software Engineering)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Software Engineering) - MSci (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Software Engineering) with a Year-in-Industry",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Software Engineering) with a Year-in-Industry - MSci (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science - MSci (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science and Mathematics",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science with a Year-in-Industry",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science with a Year-in-Industry - MSci (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science with Integrated Foundation Year",
+            "requirement": "A level :  CCD"
+        },
+        {
+            "name": "Computer Systems Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Systems Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Systems Engineering with a Year in Industry - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Systems Engineering with a Year in Industry - MEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Systems Engineering with Integrated Foundation Year - BEng (Hons)",
+            "requirement": "A level :  CCD"
+        }
+    ],
+    "University of East Anglia UEA": [
+        {
+            "name": "Computer Systems Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Systems Engineering with a year in Industry - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Reading": [
+        {
+            "name": "Computer Science",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Computer Science with Industrial Year",
+            "requirement": "A level :  ABB"
+        },
+        {
+            "name": "Mathematics with Computer Science",
+            "requirement": "A level :  ABC"
+        },
+        {
+            "name": "Mathematics with Computer Science with Placement Year",
+            "requirement": "A level :  ABC"
+        }
+    ],
+    "Bangor University": [
+        {
+            "name": "Computer Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (with Foundation Year)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science - MComp (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science with Game Design",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Systems Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Systems Engineering - MEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Stirling": [],
+    "Aberystwyth University": [
+        {
+            "name": "BSc Computer Science (Top-Up) - BSc",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Computer Graphics, Vision and Games",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Graphics, Vision and Games (with integrated year in industry)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (with integrated foundation year)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (with integrated year in industry)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (with integrated year in industry)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (with integrated year studying abroad)",
+            "requirement": "GCSE/National 4/National 5 : A minimum grade C or grade 4 pass in GCSE (or equivalent) English or Welsh is a requirement for entry to all our degree schemes.  Level 3 KS/FS Communication may be acceptable in lieu of GCSE English or Welsh.  For this degree scheme minimum grade C or grade 4 pass in GCSE (or equivalent) Mathematics is also required.  GCSE Mathematics-Numeracy is acceptable in lieu of GCSE Mathematics."
+        },
+        {
+            "name": "Computer Science and Artificial Intelligence",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science and Artificial Intelligence (with integrated year in industry)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science/Mathematics",
+            "requirement": "A level : BCC -  BBB"
+        },
+        {
+            "name": "Computer Science/Physical Geography",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Essex": [
+        {
+            "name": "Computer Games",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Games (Including Foundation Year)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Games (Including Placement Year)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Games (Including Year Abroad)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Including Foundation Year)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Including Placement Year)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Including Year Abroad)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Systems Engineering (Including Placement Year) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Systems Engineering (Including Year Abroad) - BEng (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Systems Engineering - BEng (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "Edge Hill University": [
+        {
+            "name": "Computer Engineering",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science & Artificial Intelligence",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science & Artificial Intelligence with STEM Foundation Year",
+            "requirement": "UCAS Points : 72 -  96"
+        },
+        {
+            "name": "Computer Science with STEM Foundation Year",
+            "requirement": "A level : DDD -  CCC"
+        }
+    ],
+    "Keele University": [
+        {
+            "name": "Computer Science",
+            "requirement": "A level :  BBB"
+        },
+        {
+            "name": "Computer Science (Artificial Intelligence)",
+            "requirement": "A level :  BBB"
+        },
+        {
+            "name": "Computer Science (Digital Forensics)",
+            "requirement": "A level :  BBB"
+        },
+        {
+            "name": "Computer Science (Digital Forensics) with Foundation Year",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Computer Science (Software Engineering)",
+            "requirement": "A level :  BBB"
+        },
+        {
+            "name": "Computer Science (Top-up Degree) BSc",
+            "requirement": "UCAS Points :"
+        },
+        {
+            "name": "Computer Science and Mathematics",
+            "requirement": "A level :  BBB"
+        },
+        {
+            "name": "Computer Science and Music Production - BA (Hons)",
+            "requirement": "A level :  BBB"
+        },
+        {
+            "name": "Computer Science with Artificial Intelligence",
+            "requirement": "A level :  BBB"
+        },
+        {
+            "name": "Computer Science with Artificial Intelligence with Foundation Year",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Computer Science with Digital Forensics",
+            "requirement": "A level :  BBB"
+        },
+        {
+            "name": "Computer Science with Digital Forensics with Foundation Year",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Computer Science with Integrated Masters - MComp (Hons)",
+            "requirement": "A level :  BBB"
+        },
+        {
+            "name": "Computer Science with Software Engineering",
+            "requirement": "A level :  BBB"
+        },
+        {
+            "name": "Computer Science with Software Engineering with Foundation Year",
+            "requirement": "A level :"
+        }
+    ],
+    "Falmouth University": [
+        {
+            "name": "Computer Science",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Computer Science with Integrated Foundation Year",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Computer Science with Professional Placement",
+            "requirement": "A level :"
+        }
+    ],
+    "Abertay University": [
+        {
+            "name": "Computer Game Applications Development",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Games Technology",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science",
+            "requirement": "A level :  CCC"
+        },
+        {
+            "name": "Computer Science with Cybersecurity",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Buckingham": [],
+    "University of Worcester": [
+        {
+            "name": "Computer Science",
+            "requirement": "UCAS Points :  104"
+        },
+        {
+            "name": "Computer Science (Placement Year)",
+            "requirement": "UCAS Points :  104"
+        }
+    ],
+    "Bath Spa University": [
+        {
+            "name": "Computer Science (Artificial Intelligence) (Professional Placement Year) - BSc",
+            "requirement": "A level : BCC -  BBB"
+        },
+        {
+            "name": "Computer Science (Artificial Intelligence) - BSc",
+            "requirement": "A level : BCC -  BBB"
+        },
+        {
+            "name": "Computer Science (Data Analytics) (Professional Placement Year) - BSc",
+            "requirement": "A level : BCC -  BBB"
+        },
+        {
+            "name": "Computer Science (Data Analytics) - BSc",
+            "requirement": "A level : BCC -  BBB"
+        },
+        {
+            "name": "Computer Science (Professional Placement Year) - BSc",
+            "requirement": "A level : BCC -  BBB"
+        },
+        {
+            "name": "Computer Science - BSc (Hons)",
+            "requirement": "A level : BCC -  BBB"
+        }
+    ],
+    "University of Winchester": [
+        {
+            "name": "Computer Science",
+            "requirement": "UCAS Points : 104 -  112"
+        },
+        {
+            "name": "Computer Science (Top-Up)",
+            "requirement": "GCSE/National 4/National 5 : A GCSE A*-C or 9-4 pass in Mathematics is required."
+        },
+        {
+            "name": "Computer Science (with Foundation Year)",
+            "requirement": "UCAS Points :  48"
+        }
+    ],
+    "University of the Arts London": [
+        {
+            "name": "Computer Animation and Visual Effects - BA (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science with a Foundation Year",
+            "requirement": "N/A"
+        }
+    ],
+    "University of Chester": [
+        {
+            "name": "Computer Science",
+            "requirement": "A level : BCC -  BBC"
+        },
+        {
+            "name": "Computer Science (including a Foundation Year)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Computer Science (with year in Industry)",
+            "requirement": "A level : BCC -  BBC"
+        },
+        {
+            "name": "Computer Science and Electronic Engineering",
+            "requirement": "A level : BCC -  BBC"
+        },
+        {
+            "name": "Computer Science and Electronic Engineering (including a Foundation Year)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Computer Science with Artificial Intelligence",
+            "requirement": "A level : BCC -  BBC"
+        },
+        {
+            "name": "Computer Science with Artificial Intelligence (including a Foundation Year)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Computer Science, BSc (Hons)",
+            "requirement": "N/A"
+        }
+    ],
+    "Leeds Beckett University": [
+        {
+            "name": "Computer Science",
+            "requirement": "UCAS Points :  112"
+        },
+        {
+            "name": "Computer Science - MEng",
+            "requirement": "UCAS Points :  120"
+        }
+    ],
+    "University for the Creative Arts": [
+        {
+            "name": "Computer Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (with Integrated Foundation & Professional Practice Years)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Computer Science (with Integrated Foundation Year)",
+            "requirement": "A level :"
+        },
+        {
+            "name": "Computer Science (with Professional Practice Year)",
+            "requirement": "N/A"
+        }
+    ],
+    "University of South Wales": [
+        {
+            "name": "Computer Animation - BA (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Games Design - BA (Hons)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Including Foundation Year)",
+            "requirement": "GCSE/National 4/National 5 : The University normally requires a minimum 3 GCSEs including Mathematics and English at Grade C/Grade 4 or above, or their equivalent but consideration is given to individual circumstances"
+        },
+        {
+            "name": "Computer Science (Sandwich course)",
+            "requirement": "N/A"
+        }
+    ],
+    "Leeds Trinity University": [
+        {
+            "name": "Computer Science",
+            "requirement": "UCAS Points :  112"
+        },
+        {
+            "name": "Computer Science with Cyber Security",
+            "requirement": "UCAS Points :  112"
+        },
+        {
+            "name": "Computer Science with Cybersecurity with Foundation Year",
+            "requirement": "UCAS Points :  64"
+        },
+        {
+            "name": "Computer Science with Foundation Year in Computing",
+            "requirement": "UCAS Points :  64"
+        },
+        {
+            "name": "Computer Science with Games Development",
+            "requirement": "UCAS Points :  112"
+        },
+        {
+            "name": "Computer Science with Games Development with Foundation Year",
+            "requirement": "UCAS Points :  64"
+        }
+    ],
+    "Goldsmiths, University of London": [
+        {
+            "name": "Computer Science",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Artificial Intelligence and Data Science)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Cybersecurity)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Integrated Degree)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (Software Engineering)",
+            "requirement": "N/A"
+        },
+        {
+            "name": "Computer Science (User Experience)",
+            "requirement": "N/A"
+        }
     ]
 }
