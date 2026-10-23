@@ -13,4 +13,8 @@ def load_progress() -> dict:
     
     with PROGRESS_FILE.open("r", encoding="utf-8") as file:
         return json.load(file)
+
+def clear_progress() -> None:
+    if PROGRESS_FILE.exists():
+        PROGRESS_FILE.unlink()
     
